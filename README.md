@@ -10,6 +10,7 @@ I've been active within the data science and pentesting world for quite some tim
 * ✉️  You can contact me at [ludwig@sihc.education](mailto:ludwig@sihc.education)
 * 🧠  I'm currently mastering Advanced Machine Learning
 * 🤝  I'm open to collaborating on all things security!
+* 🎓  Harvard, MIT, Royal Institute of Technology
 * ⚡  If you get busted hacking, it wasn't me who taught you!
 
 <a href="https://www.github.com/LudwigSimonsson" target="_blank" rel="noreferrer"><img

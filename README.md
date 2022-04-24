@@ -1,7 +1,7 @@
 Hi 👋 My name is Ludwig Simonsson
 =================================
 
-Data Science & Security Enthusiast, New to Github!
+Data Science & Security Enthusiast!
 ----------------------------------
 
 I've been active within the data science and pentesting world for quite some time, but am now broadening my views and skills as the classes I teach also has become wider.

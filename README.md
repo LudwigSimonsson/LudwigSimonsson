@@ -8,7 +8,7 @@ I've been active within the data science and pentesting world for quite some tim
 
 * 🌍  I'm based in Kalmar, Sweden
 * ✉️  You can contact me at [ludwig@sihc.education](mailto:ludwig@sihc.education)
-* 🧠  I'm learning Advanced Machine Learning
+* 🧠  I'm currently mastering Advanced Machine Learning
 * 🤝  I'm open to collaborating on all things security!
 * ⚡  If you get busted hacking, it wasn't me who taught you!
 

@@ -4,7 +4,7 @@ Hi 👋 My name is Ludwig Simonsson
 Data Science & Security Enthusiast! (who happens to be a teacher as well)
 ----------------------------------
 
-I've been active within the data science and pentesting world for quite some time, but am now broadening my views and skills as the classes I teach also has become wider.
+I've been active within the data science and pentesting world for quite some time, but am now broadening my views and skills as the classes I teach also have become wider.
 
 * 🌍  I'm based in Kalmar, Sweden
 * ✉️  You can contact me at [ludwig@sihc.education](mailto:ludwig@sihc.education)

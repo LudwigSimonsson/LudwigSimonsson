@@ -1,17 +1,17 @@
 Hi 👋 My name is Ludwig Simonsson
 =================================
 
-Data Science & Security Enthusiast! (who happens to be a teacher as well)
+Tech and Programming Fanatic! (who happens to be a teacher as well)
 ----------------------------------
 
-I've been active within the data science and pentesting world for quite some time, but am now broadening my views and skills as the classes I teach also have become wider.
+I've been active within the cyber security world for quite some time, but am now broadening my views and skills as the classes I teach also have become wider.
 
 * 🌍  I'm based in Kalmar, Sweden
 * ✉️  You can contact me at [ludwig@sihc.education](mailto:ludwig@sihc.education)
-* 🧠  I'm currently mastering Advanced Machine Learning
+* 🧠  I'm currently mastering Pentesting
 * 🤝  I'm open to collaborating on all things security!
 * 🎓  Harvard, MIT, Royal Institute of Technology
-* ⚡  If you get busted hacking, it wasn't me who taught you!
+* ⚡  If you get busted doing shenanigans, it wasn't me who taught you!
 
 <a href="https://www.github.com/LudwigSimonsson" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LudwigSimonsson?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

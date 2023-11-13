@@ -25,6 +25,7 @@ Programmeringsutbildning C/C++: En komplett repo med utbildningsmaterial för at
 Security-Tutor GPT: En terminalbaserad applikation som connectar med OpenAI:s API för att stötta dig i dina pentest-äventyr!
 
 Kontakt
+
 Om du vill komma i kontakt med mig eller har frågor om något av mina projekt, är du välkommen att nå mig via följande kanaler:
 
 📧 E-post: Ludwig@SIHC-Management.se

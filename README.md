@@ -26,6 +26,7 @@ Kontakt
 Om du vill komma i kontakt med mig eller har frågor om något av mina projekt, är du välkommen att nå mig via följande kanaler:
 
 📧 E-post: Ludwig@SIHC-Management.se
+
 💼 LinkedIn: Ludwig Simonsson (Israelsson)
 
 Tack för att du besöker mitt GitHub-repo! Jag ser fram emot att dela mer spännande arbete med GitHub-samhället och blivande IT-proffs. 😊🚀

@@ -1,31 +1,23 @@
-Hi 👋 My name is Ludwig Simonsson
-=================================
+👋 Välkommen till mitt GitHub-repo! Jag är Ludwig Simonsson, ägare av Simonsson Israelsson Holding & Consulting. Vår organisation driver Tekniska Riksakademin i Sverige, www.Riksakademin.se, ett nationellt institut inom IT-utbildning, samt två konsultbolag inom IT-ledning och IT-säkerhet, www.SIHC-Management.se & www.SIHC-Security.se.
 
-Tech and Programming Fanatic! (who happens to be a teacher as well)
-----------------------------------
+Om Mig
 
-I've been active within the cyber security world for quite some time, but am now broadening my views and skills as the classes I teach also have become wider.
+Jag har en bred och avancerad kunskap inom olika områden, inklusive:
 
-* 🌍  I'm based in Kalmar, Sweden
-* ✉️  You can contact me at [ludwig@sihc.education](mailto:ludwig@sihc.education)
-* 🧠  I'm currently mastering Pentesting
-* 🤝  I'm open to collaborating on all things security!
-* 🎓  Harvard, MIT, Royal Institute of Technology
-* ⚡  If you get busted doing shenanigans, it wasn't me who taught you!
+☁️ Microsoft Azure: Avancerade färdigheter i Azure-molntjänster
+💻 Programmering: Erfarenhet inom olika programmeringsspråk och utvecklingsverktyg
+🔒 IT-säkerhet: Specialiserad inom IT-säkerhetsåtgärder och strategier
+🕵️ Pentesting: Förmåga att genomföra penetrationstester och identifiera sårbarheter
+🛠️ Technical Operations: Expertis inom teknisk drift och infrastrukturstyrning
 
-<a href="https://www.github.com/LudwigSimonsson" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LudwigSimonsson?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+Projekt
+Här är några av mina intressanta projekt:
+Programmeringsutbildning C/C++: En komplett repo med utbildningsmaterial för att lära sig C och C++ från grunden!
+Security-Tutor GPT: En terminalbaserad applikation som connectar med OpenAI:s API för att stötta dig i dina pentest-äventyr!
 
-### Socials
+Kontakt
+Om du vill komma i kontakt med mig eller har frågor om något av mina projekt, är du välkommen att nå mig via följande kanaler:
 
-<p align="left"> <a href="https://www.linkedin.com/in/Ludwig-l-simonsson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/LudwigSimonsson"><img src="https://github-readme-stats.vercel.app/api?username=LudwigSimonsson&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LudwigSimonsson's GitHub stats" /></a>
-
-<a href="http://www.github.com/LudwigSimonsson"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LudwigSimonsson&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/LudwigSimonsson" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudwigSimonsson&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+📧 E-post: Ludwig@SIHC-Management.se
+💼 LinkedIn: Ludwig Simonsson (Israelsson)
+Tack för att du besöker mitt GitHub-repo! Jag ser fram emot att dela mer spännande arbete med GitHub-samhället och blivande IT-proffs. 😊🚀

@@ -1,4 +1,5 @@
-👋 Välkommen till mitt GitHub-repo! Jag är Ludwig Simonsson, ägare av Simonsson Israelsson Holding & Consulting. Vår organisation driver Tekniska Riksakademin i Sverige, www.Riksakademin.se, ett nationellt institut inom IT-utbildning, samt två konsultbolag inom IT-ledning och IT-säkerhet, www.SIHC-Management.se & www.SIHC-Security.se.
+👋 Välkommen till mitt GitHub-repo! Jag är Ludwig Simonsson, ägare av Simonsson Israelsson Holding & Consulting. 
+Vår organisation driver Tekniska Riksakademin i Sverige, www.Riksakademin.se, ett nationellt institut inom IT-utbildning, samt två konsultbolag inom IT-ledning och IT-säkerhet, www.SIHC-Management.se & www.SIHC-Security.se.
 
 Om Mig
 

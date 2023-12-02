@@ -38,5 +38,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=LudwigSimonsson&icon=2&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Bidra till Mitt Material:
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/u=107156471) 

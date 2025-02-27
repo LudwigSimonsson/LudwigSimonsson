@@ -37,6 +37,11 @@ Jag delar med mig av tekniska koncept och kunskap inom följande områden:
 
 📺 **YouTube-klipp och guider** är på gång för att stärka inlärningen ännu mer och kommer länkas här!  
 
-🔗 **Vill du lära dig mer?** Bli en del av mina utbildningsinitiativ på **Tekniska Riksakademin**!  
+🔗 **Vill du lära dig mer?** Bli en del av mina utbildningsinitiativ!
+### 🌍 **Hitta mig här**
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LudwigSIHC)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ludwigsimonssonisraelsson)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LudwigSimonssonIsraelsson)
+
 
 🚀 **Tillsammans formar vi framtidens IT-landskap!**

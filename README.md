@@ -1,6 +1,6 @@
 # 💼 Ludwig Simonsson: IT-Utbildare & Mentor 🚀
 
-👋 Hej där! Jag är Ludwig Simonsson, grundare och VD för Simonsson Israelsson Holding & Consulting. Med en passion för teknologi och en karriär som sträcker sig över år, har jag haft privilegiet att utbilda och vägleda mer än 650 IT-studenter in i karriär till dagens datum.
+👋 Hej där! Jag är Ludwig Simonsson, grundare och VD för Simonsson Israelsson Holding & Consulting. Med en passion för teknologi och en karriär som sträcker sig över år, har jag haft privilegiet att utbilda och vägleda mer än 800 IT-studenter in i karriär till dagens datum.
 
 🏢 Min verksamhet är kärnan i Tekniska Riksakademin i Sverige ([www.Riksakademin.se](http://www.riksakademin.se)), en framstående nationell institution inom IT-utbildning. Jag leder även tre konsultföretag specialiserade på IT-ledning ([www.SIHC-Management.se](http://www.sihc-management.se)), IT-säkerhet ([www.SIHC-Security.se](http://www.sihc-security.se)) och IT-utbildning (SIHC IT-Education).
 

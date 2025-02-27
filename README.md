@@ -35,7 +35,7 @@ Jag delar med mig av tekniska koncept och kunskap inom följande områden:
 
 📢 **Utbildningsmaterial, labsimuleringar och praktiska koncept kommer löpande att delas här i mina repositories!**  
 
-📺 **YouTube-klipp och guider** är på gång för att stärka inlärningen ännu mer och kommer länkas här!  
+📺 **YouTube-klipp och guider** är på gång för att stärka inlärningen ännu mer!  
 
 🔗 **Vill du lära dig mer?** Bli en del av mina utbildningsinitiativ!
 ### 🌍 **Hitta mig här**
